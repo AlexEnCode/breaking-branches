@@ -1,1 +1,12 @@
-    
+    h1{
+color: #468B97;
+    }
+
+    #p1 {
+        width: 50%;
+        margin: auto;
+        text-align: center;
+        color: #468B97;
+        text-decoration: underline #468B97 9% 51 4px;
+        text-underline-offset: 8px;
+    }
