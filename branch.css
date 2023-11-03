@@ -17,3 +17,8 @@ body {
     font-family: Agbalumo;
     color: #fff;
 }
+
+* {
+    font: 18px;
+    color: bisque;
+}
