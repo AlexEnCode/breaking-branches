@@ -1,2 +1,3 @@
 Hi
 How are you?
+Im not good, my ennemy raigeki my field ...
