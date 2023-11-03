@@ -1,19 +1,24 @@
-    h1 {
-        color: #468B97;
-    }
+h1 {
+    color: #468B97;
+}
 
-    #p1 {
-        border: #468B97 2px;
-        width: 50%;
-        margin: auto;
-        text-align: center;
-        color: #468B97;
-        text-decoration: underline #468B97 9% 51 4px;
-        text-underline-offset: 8px;
-    }
+#p1 {
+    border: #468B97 2px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    color: #468B97;
+    text-decoration: underline #468B97 9% 51 4px;
+    text-underline-offset: 8px;
+}
 
-    body {
-        background-color: #bc6c25;
-        font-family: Agbalumo;
-        color: #fff;
-    }
+body {
+    background-color: #bc6c25;
+    font-family: Agbalumo;
+    color: #fff;
+}
+
+* {
+    font: 18px;
+    color: bisque;
+}
