@@ -3,6 +3,7 @@ color: #468B97;
     }
 
     #p1 {
+        border: #468B97 2px;
         width: 50%;
         margin: auto;
         text-align: center;
